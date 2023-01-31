@@ -8,7 +8,7 @@ Spotify is one of the world’s most popular audio streaming subscription. It ha
 
  ## Instructions
  ### Step 1: 
-  * Import dependencies and Read in the CSV using Pandas and pring out the DataFrame that is returned. ( Note: this dataset uses special characters and should be read in using UTF-8 encoding) 
+  * Import dependencies and read in the CSV using Pandas and pring out the DataFrame that is returned. ( Note: this dataset uses special characters and should be read in using UTF-8 encoding) 
 
   ### Step 2: 
 *   Clean Data
